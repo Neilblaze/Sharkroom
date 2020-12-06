@@ -102,12 +102,13 @@ Now you're ready to do something awesome!
 
 ## Platform support
 
-Demos are supported on Desktop Chrome and iOS Safari.
+Demos are supported on all Chromium Browsers including iOS Safari.
 
 It should also run on Chrome on Android and potentially more Android mobile browsers though support has not been tested yet.
 
 
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - Add on-screen canvas video screen-recording & screen-capturing feature. Although we have avoided that because of GDPR privacy protocols.
