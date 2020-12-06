@@ -147,7 +147,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 This project is maintained by ➡️ [Pratyay Banerjee](https://github.com/Neilblaze) ⚡, [Sandipan Dey](https://github.com/sandipndev) 🍕, [Harshita Raj](https://github.com/Harshita248) 😎
 
-Crafted with ♥ for [SharkHacks](https://sharkhacks.devpost.com/) by [Prattay Banerjee](https://github.com/neilblaze), [Sandipan Dey](https://github.com/sandipndev) and [Harshita Raj](https://github.com/Harshita248)
+Crafted with ♥ for [SharkHacks](https://sharkhacks.devpost.com/) by [Pratyay Banerjee](https://github.com/neilblaze), [Sandipan Dey](https://github.com/sandipndev) and [Harshita Raj](https://github.com/Harshita248)
 
 <br />
 <p align="center">
