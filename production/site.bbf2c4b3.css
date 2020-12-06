@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+.canvas {
+    border-radius: 7px;
+    border: 2px solid #73AD21;
+}
+
+.canvas-container {
+    width: 800px;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    border-radius: 10px;
+    border: 2px solid #dddddd;
+}
+
+.camera-canvas {
+    position: absolute;
+    transform: scale(0.5, 0.5);
+    transform-origin: 0 0;
+    left: 10px;
+    top: 10px;
+    border-radius: 7px;
+    border: 2px solid #73AD21;
+}
+
+#main {
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+.illustration-canvas {
+
+    border-radius: 17px;
+}
+
+/*
+ *  The following loading spinner CSS is from SpinKit project
+ *  https://github.com/tobiasahlin/SpinKit
+ */
+.sk-spinner-pulse {
+    width: 20px;
+    height: 20px;
+    margin: auto 10px;
+    float: left;
+    background-color: #333;
+    border-radius: 100%;
+    -webkit-animation: sk-pulseScaleOut 1s infinite ease-in-out;
+    animation: sk-pulseScaleOut 1s infinite ease-in-out;
+}
+
+@-webkit-keyframes sk-pulseScaleOut {
+    0% {
+        -webkit-transform: scale(0);
+        transform: scale(0);
+    }
+
+    100% {
+        -webkit-transform: scale(1.0);
+        transform: scale(1.0);
+        opacity: 0;
+    }
+}
+
+@keyframes sk-pulseScaleOut {
+    0% {
+        -webkit-transform: scale(0);
+        transform: scale(0);
+    }
+
+    100% {
+        -webkit-transform: scale(1.0);
+        transform: scale(1.0);
+        opacity: 0;
+    }
+}
+
+.spinner-text {
+    float: left;
+}
+
+.speech2text {
+    margin-top: 5px;
+    color:red;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.footerx {
+    position: sticky;
+        height: 50px;
+        top: calc( 100vh - 100px );
+text-align: center;
+}
+
+/* Subtitle card */
+
+  .cardz {
+    flex: 1;
+    flex-basis: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background: #fff; margin: 1em; padding: 2em;
+  }
+  
+  
+  .cardz-html {
+    border-left: 10px solid green;
+    border-right: 10px solid green;
+    border-top: 5px solid green;
+    border-bottom: 5px solid green;
+    width: 1500px;
+  }
+  
+  .cardz-question {
+  /*   text-align: center; */
+    flex: 1;
+    width: 100%;
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+  
+  .cardz-actions {
+    flex: 1;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+
+  .cardz-answer-question-text {
+    color: white;
+    font-weight: bold;
+    font-size: 1.2em;
+    flex: 5;
+  }
