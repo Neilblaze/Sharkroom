@@ -113,6 +113,7 @@ It should also run on Chrome on Android and potentially more Android mobile brow
 - Add on-screen canvas video screen-recording & screen-capturing feature. Although we have avoided that because of GDPR privacy protocols.
 - Add more characters (Currently on Sharkman v1.0)
 - Custom Background set feature.
+- Multilanguage realtime translation support! 
 - Direct interaction with Zoom, Google Meet & similar softwares.
 - Creating a native Android™/Flutter™ app.
 
@@ -146,6 +147,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 This project is maintained by ➡️ [Pratyay Banerjee](https://github.com/Neilblaze) ⚡, [Sandipan Dey](https://github.com/sandipndev) 🍕, [Harshita Raj](https://github.com/Harshita248) 😎
 
 Crafted with ♥ for [SharkHacks](https://sharkhacks.devpost.com/) by [Prattay Banerjee](https://github.com/neilblaze), [Sandipan Dey](https://github.com/sandipndev) and [Harshita Raj](https://github.com/Harshita248)
+
+<br />
+<p align="center">
+  <a href="https://bit.ly/3ggWEFt">
+    <img src="https://raw.githubusercontent.com/Neilblaze/Sharkroom/main/production/sharkhacks2020.7659e9b5.png" width="250px" height="250px" alt="Sharkroom" >
+  </a>
 
 <!-- ACKNOWLEDGEMENT -->
 
